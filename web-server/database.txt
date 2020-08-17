@@ -1,0 +1,10 @@
+email subject message
+
+email: hello@ucad.edu
+subject: first
+message: test
+
+
+email: gello@ucsd.ed
+subject: second
+message: test
